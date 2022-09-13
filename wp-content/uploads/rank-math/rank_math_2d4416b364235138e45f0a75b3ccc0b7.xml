@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//sovtech-test.xyz/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://sovtech-test.xyz/post-sitemap.xml</loc>
+		<lastmod>2022-09-12T08:10:17+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://sovtech-test.xyz/page-sitemap.xml</loc>
+		<lastmod>2022-09-13T13:20:44+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://sovtech-test.xyz/category-sitemap.xml</loc>
+		<lastmod>2022-09-12T08:10:17+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
